@@ -1,0 +1,10 @@
+.banner{
+    background-color: #1E90FF;
+    height: 15rem;
+    width: auto;
+}
+
+img{
+    position: relative;
+    margin-left: 40%;
+}
